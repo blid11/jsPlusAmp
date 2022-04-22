@@ -119,7 +119,7 @@ const App = () => {
       </div>
     )}
   </Authenticator>
-  );
+  )
 }
 
 const styles = {
